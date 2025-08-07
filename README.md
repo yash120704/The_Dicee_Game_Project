@@ -37,3 +37,7 @@ index.js              --> Dice logic script
 👨‍💻 Author
 Yash Kashyap
 Created and designed with ❤️
+
+📽️ Live Demo 
+
+🔗 https://yash120704.github.io/The_Dicee_Game_Project/
